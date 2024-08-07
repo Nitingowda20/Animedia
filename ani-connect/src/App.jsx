@@ -1,12 +1,12 @@
 import React from 'react'
 import {BrowserRouter , Routes , Route} from 'react-router-dom'
 import Home from './pages/Home'
-
 import Dashboard from './pages/Dashboard'
 import Projects from './pages/Projects'
 import SignInPage from './pages/SignInPage'
 import SignOutPage from './pages/SignOutPage'
 import AboutPage from './pages/AboutPage'
+
 
 export default function App() {
   return (
